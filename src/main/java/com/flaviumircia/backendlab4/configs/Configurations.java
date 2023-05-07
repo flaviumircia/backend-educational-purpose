@@ -7,7 +7,6 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
 import javax.sql.DataSource;
 import java.io.FileNotFoundException;
-import java.util.HashMap;
 import java.util.Map;
 
 @Configuration
